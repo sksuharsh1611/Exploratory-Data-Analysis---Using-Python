@@ -29,7 +29,7 @@ Based on the results of the EDA, conclusions are drawn about the underlying patt
 # Usage
 To replicate the EDA, clone or download the repository, and run the code in the [insert filename] file. The [insert dataset name] dataset is included in the repository in the [insert filename] file.
 
-#License
+# License
 This project is licensed under the [insert license type] license. See the [insert filename] file for details.
 
 # Authors
