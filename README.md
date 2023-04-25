@@ -49,5 +49,7 @@ Suharsh Kumar - Initial work and author
 
 # References
 > Pandas documentation[https://pandas.pydata.org/pandas-docs/stable/]: official documentation for the Pandas library.
-> Seaborn documentation: official documentation for the Seaborn visualization library.
-> Matplotlib documentation: official documentation for the Matplotlib visualization library.
+
+> Seaborn documentation[https://seaborn.pydata.org/]: official documentation for the Seaborn visualization library.
+
+> Matplotlib documentation[https://matplotlib.org/stable/users/index.html]: official documentation for the Matplotlib visualization library.
