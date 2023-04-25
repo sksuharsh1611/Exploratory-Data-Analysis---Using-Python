@@ -4,7 +4,15 @@
 This project contains the code and data used to perform an exploratory data analysis (EDA) on a given dataset. The goal of the EDA is to understand the underlying patterns, relationships, and trends within the data, and to identify any potential issues or outliers that may affect subsequent analysis.
 
 # Dataset
-The dataset used for this analysis are Redwine, Student performance, Algerian Forest fires, Flight price, Google Playstore  . It consists of 100000s observations and 1000s variables.
+The dataset used for this analysis includes the following datasets:
+
+- Redwine
+- Student performance
+- Algerian Forest fires
+- Flight price
+- Google Playstore
+
+The datasets contain over 100000 observations and 1000 variables, and were collected from various sources such as UCI Machine Learning Repository and Kaggle.
 
 # Methodology
 The Exploratory Data Analysis (EDA) for this project was conducted using Python and various libraries such as Pandas, NumPy, Matplotlib, and Seaborn. The code used to perform the analysis and generate the visualizations can be found in the filename.py file.
