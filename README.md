@@ -39,13 +39,15 @@ Suharsh Kumar - Initial work and author
 
 # Acknowledgments
 > Krish Naik: for his helpful videos on Exploratory Data Analysis.
+
 > Sudhanshu Kumar: for his insights and feedback on the project.
+
 > Pwskills: for providing a platform for learning and practicing data analysis.
 
 # Data Sources
-> UCI Machine Learning Repository: a collection of databases, domain theories, and data generators that are used by the machine learning community for analysis.
+> UCI Machine Learning Repository[https://archive.ics.uci.edu/ml/index.php]: a collection of databases, domain theories, and data generators that are used by the machine learning community for analysis.
 
 # References
-> Pandas documentation: official documentation for the Pandas library.
+> Pandas documentation[https://pandas.pydata.org/pandas-docs/stable/]: official documentation for the Pandas library.
 > Seaborn documentation: official documentation for the Seaborn visualization library.
 > Matplotlib documentation: official documentation for the Matplotlib visualization library.
